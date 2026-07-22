@@ -1,0 +1,27 @@
+{
+  "shared": {
+    "get_started": "Get Started"
+  },
+  "weather": {
+    "app_title": "Weather",
+    "search_hint": "Enter city name",
+    "search_button": "Search Weather",
+    "loading": "Fetching weather data...",
+    "empty_state": "Enter a city name to search for weather",
+    "cached_warning": "Showing cached data. Connect to internet for live updates.",
+    "offline": "Offline",
+    "feels_like": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind"
+  },
+  "errors": {
+    "connection_timeout": "Connection timeout. Please check your internet connection.",
+    "no_internet": "No internet connection. Please check your network.",
+    "invalid_city": "Invalid city name. Please try again.",
+    "api_key_error": "API key error. Please contact support.",
+    "city_not_found": "City not found. Please check the spelling.",
+    "server_error": "Server error",
+    "fetch_failed": "Failed to fetch weather data. Please try again.",
+    "unexpected": "Unexpected error"
+  }
+}
