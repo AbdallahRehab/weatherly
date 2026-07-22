@@ -1,6 +1,6 @@
 # weatherly
 
-Generated with the Flutter Scaffolding Wizard.
+
 
 ## What's inside
 - Opinionated theme with Material 3
